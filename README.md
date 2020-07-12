@@ -1,2 +1,2 @@
 # nodejs-chat-api
-First API made with node.js
+Simple chat API made with node.js and mongoDB
